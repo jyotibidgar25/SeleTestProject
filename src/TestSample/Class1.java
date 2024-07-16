@@ -8,6 +8,7 @@ public class Class1 {
    }
 	@Test
 	public void login() {
+		System.out.println("I am inside the Login form...");
 		
 	}
 }
